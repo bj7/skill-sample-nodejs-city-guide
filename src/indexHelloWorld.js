@@ -5,9 +5,9 @@
 const languageStrings = {
     'en': {
         'translation': {
-            'WELCOME' : "Welcome to Gloucester Guide!",
+            'WELCOME' : "Welcome to Crofton, Maryland!",
             'HELP'    : "Say about, to hear more about the city, or say coffee, breakfast, lunch, or dinner, to hear local restaurant suggestions, or say recommend an attraction, or say, go outside. ",
-            'ABOUT'   : "Gloucester Massachusetts is a city on the Atlantic Ocean.  A popular summer beach destination, Gloucester has a rich history of fishing and ship building.",
+            'ABOUT'   : "Crofton, Marlyand is a city in central Maryland. It is a perfect distance from the capital, Annapolis, and Washington D.C.",
             'STOP'    : "Okay, see you next time!"
         }
     }
